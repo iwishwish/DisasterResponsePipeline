@@ -131,4 +131,3 @@ dmypy.json
 # Data
 *.csv 
 *.zip 
-*.db
