@@ -9,7 +9,7 @@
 
 
 ## Installation <a name="installation"></a>
-1. Run following command to update scikit-learn to version 0.22.2.post1.     
+1. Run the following command to update scikit-learn to version 0.22.2.post1.     
 `pip3 install -U scikit-learn`
 
 2. Run the following commands in the project's root directory to set up your database and model.
@@ -22,7 +22,10 @@
 3. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-4. Go to http://0.0.0.0:3001/ 
+4. Go to http://0.0.0.0:3001/, following pages should be seen.
+![mainpage](img/homepage.png)
+![gopage](img/go.png)
+
 
 
 
