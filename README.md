@@ -26,8 +26,10 @@
 
 
 
-## Project Motivation<a name="motivation"></a>
+## Project Motivation<a name="motivation"></a>    
 
+
+This project is to use data from Figure Eight to build a model automatically classifies disaster messages. The web app included in this project is for emergency workers who can input a new message from social media and get classification results in several categories.      
     
 
 ## File Descriptions <a name="files"></a>
